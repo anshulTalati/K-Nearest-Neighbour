@@ -1,4 +1,4 @@
-# K--Nearest-Neighbour-
+# K-Nearest-Neighbour-
 
 # Description
 * K-Nearest-Neighbors algorithm is used for classification and regression problems.
